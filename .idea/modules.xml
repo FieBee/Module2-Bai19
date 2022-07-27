@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BT-ValidateClassName/BT-ValidateClassName.iml" filepath="$PROJECT_DIR$/BT-ValidateClassName/BT-ValidateClassName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT-ValidateTelephoneNumber/BT-ValidateTelephoneNumber.iml" filepath="$PROJECT_DIR$/BT-ValidateTelephoneNumber/BT-ValidateTelephoneNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai19.iml" filepath="$PROJECT_DIR$/.idea/Bai19.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH-CrawlListMusic/TH-CrawlListMusic.iml" filepath="$PROJECT_DIR$/TH-CrawlListMusic/TH-CrawlListMusic.iml" />
